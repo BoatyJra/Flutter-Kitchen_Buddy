@@ -50,7 +50,7 @@ Optional: In case you want to build it into an APK
 3. Kill the app task then open it again
 4. The app is functionally as normal
 
-## Known problem and bugs
+## Known Problem and Bugs
 
 1. The app need to be refreshed first to use when it was first downloaded
 2. In debug mode, if the app detected the ingredients that not added inside
